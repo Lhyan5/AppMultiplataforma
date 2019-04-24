@@ -1,0 +1,16 @@
+Primero entramos a una web en donde nos daran los pasos para poder instalar chocolate y configurarlo
+para poder usarlos.(1.1)
+Luego instalamos python jdk8 con lo instalado anteriormente(1.2)
+Seguidamente instalamos react-native con node.(1.3)
+Una  vez echo todo corremos la aplicacion activando previamnete la depruacion dle celular y viendo si sera en
+android o en IOS.(1.4)
+Una vez cabiemos unas lineas de codigo a nuestro gusto podremos poner imagenes tal como se ve en (1.5)
+
+Obs y conclusiones
+Seguimos las instrucciones de una pagina web para poder instalar chocolatey 
+Instalamos python JDK8 con chocolatey.
+Creamos nuestra primer app para moviles.
+Para ver en que queremos que corra la app solo basta con camiar el codigo.
+Tenemos que activar la depuracion y aceptar los permisos para poder correr la aplicacion.
+Hicimos que haya imagenes en nuestra app.
+Cambiamos codigo de nuestra app para que corra sin problemas.

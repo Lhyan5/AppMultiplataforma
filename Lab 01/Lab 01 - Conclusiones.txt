@@ -1,0 +1,15 @@
+En le primer punto instalamos react, en mi caso ya esta instalado por ende solo me actualizo una que otra cosa(1.1)
+
+Lo que siguio fue crear nuetsro primer proyecto con react (1.2)
+
+En este tercer punto iniciamos el proyecto(1.3) y luego vemos en la web que se inicio correctamente (1.4)
+
+Vemos que nos dice que se puede editar en un archivo y lo editamos(1.5)
+
+Observaciones y Conclusiones:
+------------------------------
+1. Creamos nuestro primer proyecto en react.
+2. Funciono como una pagina web mas no como una aplicacion movil.
+3. Vimos que lo que editemos se actualiza en la pagina automaticamente.
+4. React es como una libreria del nodejs.
+5. Hay una carpeta que no es necesario pasarla ya que se puede reinstalar en cualqueir computadora como una libreria de node. 

@@ -1,0 +1,20 @@
+Una vez vemos el creado el proyecto cambiamos todo para poner un texto comprobando que todo anda bien(2.1)
+Luego lo configuramos viendo que nos falta poner un nuemro que llamaremos de otro archivo(2.2)
+Modificamos codigo y vemos que el contador sera 5 llamandolo de otro archivo.(2.3)
+Luego solo llamamos al archivo inicial mandandole variables distintas como 6 y 0 e independientemente de cada parte se genera el archivo(2.4)
+Instalamos una dependencias con un comando para poder tener acceso a mas control de nuestra app.(2.5)
+Vimos que con lo echo ahora pode mos crear archivos css y cambairle el estilo al que queramos, impelmentamos botones y funciones para poder aumentar el valor o disminuirlo(2.6)
+=======
+En la parte de la tarea creamos misma funciones con valores que nosotros mandabamos al llamar la clase.(2.1.1)
+Vemos el render return que esta con los botones y el numero de cada variabe como se recibe para luego usarla en la operacion que queramos.(2.1.2)
+Vemos como se mandan los valores como valor1 valor2 y rpta (2.1.3)
+Vemos como se ejecuta todo lo de hace 2 puntos y por casa operacion dada se ejecuta la repuesta(2.2.1)(2.2.2)(2.2.3)(2.2.4)(2.2.5)
+
+Observaciones y conclusiones
+
+Creamos una aplicacion donde nosotros dabamos el valor y se operaba solo
+Creamos funciones basicas como para sumar restar multiplicar dividir y sacar porcentaje.
+Aprendimos a recibir valores desde el archivo principal.
+Creamos un archivos css para cambiar el diseño que queramos.
+Ejecutamos un comando para que nos salgan opciones de poder crear funciones para las operaciones realizadas.
+Declaramos la funcion de cada boton para poder ejecutar sin errores
