@@ -1,0 +1,29 @@
+Primero creamos el poryecto y corremos la aplicacion en el celular (4.1)
+Vemos que corrio correctamente la aplicacion en el celular(4.2)
+Se procede a modificar el archivo App.js para que cambie el ontenido de la app(4.3)
+Vamos modificando poco a poco nuestro codigo aumentando texto siendo llamado de otro archivo(4.4)
+Mandamos variable del App.js para que salga el numero.(4.5)
+Creamos otra variable y aumentamos una linea de codigo para que se llame 3 veces y con diferentes valores(4.6)
+Aumentamos botones(4.7)
+Le damos funcionalidad a los botones y aumenta el valor del 0(4.8)
+Quitamos la primera linea echa y cambiamos para que la variable que mandamos se cambie y el boton funcione con este(4.9)
+Aumentamos unos pocos textos para saber cual es el numero inicial el cual se puede cambiar con los botones(4.10)
+Cambiamos codigo para que se quede el numero anterior y se cambie(4.11)(4.12)
+En caso no haya numero o haya algun error nos dara un mensaje en la app(4.13)
+
+===============================================================================
+
+En la parte de la tarea solo es hacer lo mismo pero con 2 valores y que se generen 
+operaciones matematicas.(4.1)(4.2.1)(4.2.2)
+Vemos los resultados del codigo compilado con 2 nuemros como 100 y 50 siendo sumados restados 
+multiplicados y divididos(4.3)(4.4)(4.5)(4.6)
+
+===============================================================================
+
+Observaciones y Conclusiones:
+----
+La tarea era lo mismo del laboratorio anterior pero echo en el movil.
+Todo el laboratorio fue lo mismo se vio como lo mismo que se hizo el lab pasado
+se hizo nuevamente pero en el celular.
+Salen algunos errores pero simples como por una coma o algo faltante pero nada gravez.
+Pusimos un poco de diseño a los botones y un centrado para el orden.
