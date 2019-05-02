@@ -1,0 +1,26 @@
+Al empezar creamos un boton que nos lleve a otra vista con otto contenido pero regresabamos 
+presionando la flecha que aparecia en la parte superior(0)
+
+Primero agregamos botones que nos llevaran a otra vista con otro contenid(1)
+
+Luego vemos que hay otro boton para regresar de la vista 2 a la vista home (2)
+
+Ahora tenemos un titulo en el inicio de la app mientras que en la segunda vista no hay(3)
+
+Empezamos a poner diseños como el color del titulo y el color de texto en todas las vistas(4)
+
+Luego al cambiar el codigo del import nos borro el titulo pero funcionaba con normalidad(5)
+
+Eso lo cambiamos a createBottomTabNavigator lo cual era casi lo mismo que el anterior pero nos aparecian
+botones en la parte inferior de la app donde nos llevaba a la vista que queramos.(6)
+
+Observaciones y Conclusiones
+
+Aprendimso a interacturar entre las vistas.
+Vimos como pones titulos a las vistas.
+Tambien le empezamso a poner mas diseño a las vistas.
+Interactuamos con botones que llevaban a diferentes vistas.
+Creamos diferentes archivos para diferentes vistas.
+Primero creamos un archivo donde contenia todas las vistas, luego lo distribuimos.
+Vimos nuevos diseños cambiando solo una palabra del codigo, el cual era el diseño que queriamos de la app.
+Emepezamos a presentar gif de lo echo para dar mas pruebas.

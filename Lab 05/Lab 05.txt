@@ -1,0 +1,25 @@
+Primero vemos el contador que hicimos en tiempo real como aumenta de uno en uno sin ingun boton
+La funcion sola lo realizaba. (Gif 1)
+
+Luego con esa idea se podia hacer un reloj en tiempo real como el que hicimos en la imagen (Gif 2)
+
+Lo cambiamos todo y creamos un array para ver llamarlo en una lista la cual al ser presionada cualquier 
+opcion nos llamaria al apellido de este (Gif 3)
+
+Creamos un buscador en lap arte superir el cual estaba con error, ya que se escribia algo y se boraba(Gif 4)
+
+Ahora en vez de llamar ese array, llamamos un link que devuelve el formato json, y de igual forma que con 
+los nombres no llamara la descripcion de cada pelicula(Gif 5)
+
+===============================================================
+===============================================================
+
+Observaciones y Conclusiones
+
+Mandamos gif probando la funcionalidad de cada punto de el laboratorio
+Llamamos links en vez de arrays con buen ocntenido.
+Podemos trabajarlos con formato JSON.
+Creamos el alert en caso sea presionado cualquier elemento de la lista.
+Hicimos un contador sin necesidad de estar presionando un boton para incrementar el numero.
+Creamos un reloj en tiempo real para pobrar la funcionalidad de los contadores autonomos.
+Creamos un buscador el cual filtraba todos los datos para buscar los que coincidian.
