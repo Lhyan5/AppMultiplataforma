@@ -1,0 +1,40 @@
+Primero nos logueamos como siempre empezando con la api y mongo iniciados (1.1)(1.2)(1.3)
+
+Probaremos en esta oportunidad el chat mejorado y lo probaremos en 2 celulares (1.4)
+
+Vemos que se registra en nuestra consola(1.5)
+
+En las configuraciones nos da 3 opciones, antes nos daba solo 3 pero ahora implementamos 
+fotos (1.7)
+
+probamos la camra y vemos que si funciona(Cmara)
+
+Vemos el nombre de las fotos tomadas(1.6)
+
+Vemos mas pruebas del chat que son pro distintos celulares (prueba1)(prueba2)(prueba3)
+(prueba4)
+
+============================================================================================
+
+Observaciones y Conclusiones.
+
+Agregamos el componente camara a nuestro proyecto, para ello instalamos las dependencias, 
+y configuramos el archivo graddle de android para acceder a la camara.
+
+Tuvimos que otorgar los permisos necesarios para que se pueda usar la camara.
+
+Probamos la camara del celular con un boton el cual tomaba la foto y salia su nombre en 
+la consola
+
+Almacenamos nuestra foto o imagen haciendo un post con axios, y lo guardamos en la carpeta 
+upload, previamente este archivo lo convertigmos al formato jpg.
+
+Modificamos los permisos, para usar la camara, el mensaje, titulo y los botones.
+
+Agregamos un boton en nuestro modal para acceder a la vista de la camara, cuando estamos 
+en el chat.
+
+La imagen no se guarda en JPGE, se guarda como un archivo sin formate en base 64.
+
+Se tuvo que acoplar unos pequeños errores los cuales de alguna forma se tuvo que solucionar 
+pero son minimos.

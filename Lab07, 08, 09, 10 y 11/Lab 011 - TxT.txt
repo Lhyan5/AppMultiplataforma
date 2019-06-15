@@ -1,0 +1,39 @@
+En este laboratorio hicimos uso de estilos y componentes de UI a nuestra aplicacion.
+
+Probamos la app y vemos que ahora tenemos un menu mas decente y presentable con varias 
+opciones como editar perfil el cual nos mandaba a una vista con nuestro correo y una 
+imagenes al azar otorgada al correo para poder distinguir.
+
+Vemos q ue proband con otro usuario nos cambia el correo y la imagen.
+
+Ahora tenemos una imagen y un boton para salir y unas opcioens de configuracion y de lista que
+todavia no tienen funciones.
+
+Todas las pruebas estan el el gift (gift)
+
+=============================================================================================
+
+Observaciones y Conclusiones.
+
+Instalamos 2 dependencias el md5 para obtener el avatar de un usuario mediante su email. y 
+react-native-elements para el uso de elementos de UI.
+
+Agregamos 4 opciones Perfil, Editar Perfil, Lista y Configuraciones, pero por ahora soloo hicimos 
+perfil y editar perfil
+
+Creamos un archivo, en donde declaramos las variables globales de estilos en casos de modificar
+solamente modificamos ese archivo, y ya no en cada aplicacion. y el archivol global, en donde 
+crearemos los estilos que ya declaramos en base.js.
+
+Creamos el componente IconBox, para luego llamarlo en nuestra vista de Home, ahi añadimos estilos y 
+simulamos un boton, en la vista solamente importabamos, incovabamos y modificamos sus parametros.
+
+En la vista del perfil probamos 
+
+Creamos un archivo para definir la portada de nuestro perfil, en donde asignamos el nombre, correo, como 
+tambien la imagen jalada con md5. y luego lo mostrabamos en la vista de Perfil, 
+luego creamos recien una vista en donde volvimos a llamar al componente IconBox, para crear un boton.
+
+De preferencia se usaba la red de mi celular ya que con la de tecup daba muchos problemas.
+
+El inicio salia con el nombre del usuario que se registraba.

@@ -1,0 +1,31 @@
+Una vez logueado podemos ver que hay un drawer layout jalando nuestro lado derecho(1.1)
+
+Podemos selecionar lo que seria maps y nos mandaa a una vista de mapas(1.2)
+
+Pusimos un boton flotante con 2 opciones (1.3)
+
+Probamos el zoom de acercamiento y alejamineto (1.4)
+
+Ahora en el chat en las configuraciones podemos ver mas opciones el cual nos permite ver los
+maps.
+
+============================================================================================
+
+Observaciones y Conclusiones.
+
+Agregamos el componente Mapa, creamos una vista, para mostrar todo el mapa, previamente importamos
+MapView para acceder a este servicio.
+
+Obtuvimos un token habilitando el Google Maps PLatform, y ahi escojimos el servicio
+o los servicios a usar, en el caso de Maps el uso de la API es gratis, en el caso de Routes
+tiene un precio por peticion.
+
+Obtuvimos permisos de GeoLocalizacion, a lo que accedimos a 2 para el funcionamiento usamos
+Access_Fine_Location, y access_Course_Location.
+
+Usamos marcadores para poder marcar nuestra posicion.
+
+Al igual que en camra pedimos permisos para acceder a la ubicacion del gps.
+
+Agregamos FloatingAction, para colocar botones flotantes en el mapa, ya que el mapa
+no permite regresa a la vista anterior de forma explicita.

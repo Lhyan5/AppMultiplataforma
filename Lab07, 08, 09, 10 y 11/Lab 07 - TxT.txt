@@ -1,0 +1,32 @@
+Creamos el proyecto en el cual incluimos varias instalaciones para poder trabajarlo con mas
+inteactividad y mejorar el diseño de estos, para lo cual usamos imagenes y una interfaz con 
+lo echo anteriormente que nos llevaba a el lad ode iniciar sesion y al lado de registrase.
+(1.1).
+
+Probamos que se pueda escribir con normalidad y que no nos surjan errores.(Video)
+
+Mejormaos toda la interfaz con fumi para poder darle ese diseño a los inputs, que ahora 
+contienen imagenes y un placeholder, aparte del boton circular.(1.2)
+
+Al ejecutar la app y en caso no hayan datos nos saldria un toast con un texto indicando que
+faltan datos.(1.3)
+
+En caso los datos sean incorrectos nos dara hubo un error en el registro.(1.4)
+
+Si entramos al area de registro solo nos saldra un boton que dice inice sesion el cual nos
+manda a una pagina donde hay un boton con cerrar sesion.(1.5)
+
+Observaciones y Conclusiones.
+
+Algunos puntos en el laboratorio daban errores lo cual manejabamos de una u otra forma.
+Buscando la documentacion de cada libreria usada vimos que ahora se aplica el codigo de
+otra manera y ya no como en el lab.
+Instalamos todas las librerias necesarias para el inicio de la app.
+Creaos un login con todo lo necesario y una buena interfaz.
+Controlamos el ingreso de datos.
+Usamos Fumi en vez de un textInput y TouchableOpacity en vez de button, ya que estos
+cuentan con mas diseño y mas opciones de estilos.
+En algunos casos salian errores desconocidos lo cual teniamos que borrar parte por parte 
+hasta ver donde era el error y que podemos cambiar para arreglarlo.
+El profesor nos ayudo en todos los puntos que necesitabamos ayuda y nos dio ideas de como
+mejorar.

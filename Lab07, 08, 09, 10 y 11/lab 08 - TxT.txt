@@ -1,0 +1,50 @@
+Iiciamos sesion con normalidad(1.1)
+
+Ahora en neustrp menu vamos a la opcionde muestrame el chat(1.2)
+
+Vemos como nos manda a una vista con un lugar para ewscribir(1.3)
+
+Podemos mandar mensajes y se graban con normalidad(1.4)
+
+Podemos ver que en la imagen de configuraciones al presionarla nos dara 2 opciones para 
+seguir o regresar.(1.6)
+
+Uno nos regresara como se ve en la (1.6)
+
+
+Al inciar la api del laboratorio 06 de web y mongodb se conectaba a la ip del servidor en 
+este caso la laptop Y probamos como se usabamos el login con esos datos registrados 
+mandandnonos a una vista con un miestrame el chat y un cerrar sesion.(Funcionando login)
+(Login1.1)
+
+Luego procedemos al registro y probamos el login nuevamente(punto1.1, 1.2 y 1.3)
+
+Vemos como se registra en nuestra api y en mongodb(Usuario en mongo)(usuario nuevo)
+(creando usuarios)
+
+
+============================================================================================
+
+Observaciones y Conclusiones.
+
+Usamos axios para hacer peticiones con nuestra API, para el logeo, como tambien el registro 
+de usuarios.
+
+Tenemos que tener la api abierta para poder hacer el registro y el login funcionales
+
+En este laboratorio implementamos un chat utilzando Socket IO, ya que para el juego que 
+vamos a desarrollar vamos a poder conversar entre nosotros mediante la aplicacion, como 
+tambienpara conexiones en tiempo real con los jugadores usando Socket.io.
+
+Desarrollamos una pantalla de carga, y lo declaramos como pantalla inicial, ya que una vez 
+carguen los recursos de la aplicacion, rediriga a la pantalla de inicio, en esta pantalla 
+podemos colocar imagenes, background, etc como un screen cualquiera.
+
+Importamos frameworks para el uso de iconos, como tambien textInput ya sea Fumi u otros, 
+para que nuestra aplicacion se vea mucho mas agradable.
+
+Usamos varias herrmientas con funcionalidades especiales como para ver o no coontraseñas.
+
+Creamos una aplicacion en el que hicimos uso de navigation, al igual que el laboratorio 
+anterior, como tambien menus laterales, en donde filtramos el logeo de un usuario, ya que 
+si accede puede usar menus laterales, de lo contrario solo el menu de navegacion.
